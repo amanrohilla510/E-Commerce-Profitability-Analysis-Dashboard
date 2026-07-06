@@ -78,4 +78,4 @@ Explore how discounts relate to sales and profitability using an interactive sca
 
 Screenshot/Demo of the dashboard
 
-Example: ![Dashboard Preview]()
+Example: ![Dashboard Preview](https://github.com/amanrohilla510/E-Commerce-Profitability-Analysis-Dashboard/blob/main/Screenshot%20of%20the%20dashboard.png)
