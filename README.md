@@ -75,3 +75,7 @@ Analyze which customer segments contribute the highest profit.
 Evaluate product categories based on profitability.
 Understand shipping mode distribution across total profit.
 Explore how discounts relate to sales and profitability using an interactive scatter chart.
+
+Screenshot/Demo of the dashboard
+
+Example: ![Dashboard Preview]()
